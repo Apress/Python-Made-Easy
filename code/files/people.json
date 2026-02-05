@@ -1,0 +1,14 @@
+{
+    "people": [
+        {
+            "name": "Donald Duck",
+            "age": 42,
+            "city": "Duckburg"
+        },
+        {
+            "name": "Mickey Mouse",
+            "age": 40,
+            "city": "Disneyland"
+        }
+    ]
+}
